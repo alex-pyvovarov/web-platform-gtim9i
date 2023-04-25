@@ -1,0 +1,13 @@
+html {
+  background:#778899;
+  color:#7fffd4;
+}
+html{
+  font-weight:100;
+  font-family:cursive;
+}
+body {
+  width:360px;
+  margin:auto;
+  font-family: 'DynaPuff', cursive;
+}
